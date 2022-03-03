@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Steve Snyder's GitHub Page
 
 You can use the [editor on GitHub](https://github.com/smsnyder-revspring/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
